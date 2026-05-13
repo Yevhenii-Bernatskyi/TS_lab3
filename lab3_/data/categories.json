@@ -3,24 +3,24 @@
     "id": 1,
     "name": "Ноутбуки",
     "shortname": "laptops",
-    "notes": "Lorem ipsum dolor sit amet."
+    "notes": "some laptops"
   },
   {
     "id": 2,
     "name": "Смартфони",
     "shortname": "phones",
-    "notes": "Lorem ipsum dolor sit amet."
+    "notes": "some phones"
   },
   {
     "id": 3,
     "name": "Навушники",
     "shortname": "headphones",
-    "notes": "Lorem ipsum dolor sit amet."
+    "notes": "some headphones"
   },
   {
     "id": 4,
     "name": "Аксесуари",
     "shortname": "accessories",
-    "notes": ""
+    "notes": "some accessories"
   }
 ]
